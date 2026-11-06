@@ -1,4 +1,0 @@
-# กันการเปิดไฟล์คู่มือ/สคริปต์ตรงๆ เมื่อขึ้นเว็บจริง
-<FilesMatch "\.(md|json)$">
-  Require all denied
-</FilesMatch>
