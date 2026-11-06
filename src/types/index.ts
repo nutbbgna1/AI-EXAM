@@ -75,3 +75,4 @@ export interface AppSettings {
   reviewModel: string;
   temperature: number;
 }
+

@@ -292,3 +292,4 @@ export const generateLessonPlan = async (params: GenerateLessonPlanParams): Prom
     createdAt: new Date().toISOString()
   };
 };
+
