@@ -1,0 +1,36 @@
+# OS & IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.pyc
+__pycache__/
+*.bak*
+
+# Local configuration backup
+config.local.php
+
+# Private runtime & user data
+data/saved/*
+!data/saved/.gitkeep
+data/images/*
+!data/images/.gitkeep
+data/books/*
+!data/books/.gitkeep
+data/exams/*
+!data/exams/.gitkeep
+data/bank/*
+!data/bank/.gitkeep
+data/curriculum/*
+!data/curriculum/.gitkeep
+data/library/*
+!data/library/.gitkeep
+data/library_files/*
+!data/library_files/.gitkeep
+data/lplans/*
+!data/lplans/.gitkeep
+data/terms/*
+!data/terms/.gitkeep
+data/settings/*
+!data/settings/.gitkeep
+data/quota.json
+data/or_models_*.json
